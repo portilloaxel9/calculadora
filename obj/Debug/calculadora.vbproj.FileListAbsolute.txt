@@ -1,0 +1,13 @@
+C:\Users\aportillo1\Desktop\calculadora\bin\Debug\calculadora.exe.config
+C:\Users\aportillo1\Desktop\calculadora\bin\Debug\calculadora.exe
+C:\Users\aportillo1\Desktop\calculadora\bin\Debug\calculadora.pdb
+C:\Users\aportillo1\Desktop\calculadora\bin\Debug\calculadora.xml
+C:\Users\aportillo1\Desktop\calculadora\obj\Debug\calculadora.vbproj.AssemblyReference.cache
+C:\Users\aportillo1\Desktop\calculadora\obj\Debug\calculadora.vbproj.SuggestedBindingRedirects.cache
+C:\Users\aportillo1\Desktop\calculadora\obj\Debug\calculadora.calculadora.resources
+C:\Users\aportillo1\Desktop\calculadora\obj\Debug\calculadora.Resources.resources
+C:\Users\aportillo1\Desktop\calculadora\obj\Debug\calculadora.vbproj.GenerateResource.cache
+C:\Users\aportillo1\Desktop\calculadora\obj\Debug\calculadora.vbproj.CoreCompileInputs.cache
+C:\Users\aportillo1\Desktop\calculadora\obj\Debug\calculadora.exe
+C:\Users\aportillo1\Desktop\calculadora\obj\Debug\calculadora.xml
+C:\Users\aportillo1\Desktop\calculadora\obj\Debug\calculadora.pdb
